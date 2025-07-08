@@ -1,6 +1,7 @@
 # Common Cloud Services for DA Roles
 
 ### Which cloud to focus upon?
+---
 
 *Unofficial - Ant's opinion only, blah, blah, blah!!!*
 
@@ -24,6 +25,7 @@ Generally speaking, if a data pipeline goes:
 Then each cloud provider can offer services for each stage of the lifecycle, and the processing that happens inbetween.
 
 ### DA Relevant Services
+---
 #### AWS (Amazon Web Services)
 
 |Service|Purpose|Use Case|
@@ -36,6 +38,9 @@ Then each cloud provider can offer services for each stage of the lifecycle, and
 
 Also useful: Amazon Kinesis for real-time data streaming and processing. Amazon EMR (Elastic Map Reduce) for big data processing with Spark/Hadoop (Open Source, Apache platform - one is optimised for clustered deployments).
 
+**AWS certification** - [Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+
+---
 #### GCP (Google Cloud Platform)
 |Service|Purpose|Use Case|
 |---|---|---|
@@ -47,6 +52,9 @@ Also useful: Amazon Kinesis for real-time data streaming and processing. Amazon 
 
 GCP also offers a beginner-friendly Data Analytics Certificate to help new analysts build skills with hands-on projects.
 
+**GCP certification** - [Cloud Digital Leader](https://cloud.google.com/learn/certification/cloud-digital-leader)
+
+---
 #### Microsoft Azure
 |Service|Purpose|Use Case|
 |---|---|---|
@@ -57,3 +65,5 @@ GCP also offers a beginner-friendly Data Analytics Certificate to help new analy
 |Azure Analysis Services|Semantic data modeling|Build enterprise-grade data models|
 
 Azure also supports Jupyter Notebooks and HDInsight for more technical data exploration and processing.
+
+**Azure certification** - [Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
