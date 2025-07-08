@@ -3,9 +3,9 @@
 ### Which cloud to focus upon?
 
 *Unofficial - Ant's opinion only, blah, blah, blah!!!*
-|||
-|---|---|
+
 |Provider|Benefit|
+|---|---|
 |AWS|Biggest (first mover advantage), widest range of services.|
 |GCP|The developers cloud. Made by developers, for developers.|
 |Azure|Leverages Microsoft's monopoly on enterprise software for greater compatibility with on-premise platforms|
@@ -25,9 +25,9 @@ Then each cloud provider can offer services for each stage of the lifecycle, and
 
 ### DA Relevant Services
 #### AWS (Amazon Web Services)
-||||
-|---|---|---|
+
 |Service|Purpose|Use Case|
+|---|---|---|
 |Amazon S3|Scalable object storage|Store raw or processed datasets|
 |Amazon RDS|Managed relational databases|Host SQL databases for analytics|
 |Amazon QuickSight|Business intelligence and visualization|Create dashboards and reports|
@@ -37,9 +37,8 @@ Then each cloud provider can offer services for each stage of the lifecycle, and
 Also useful: Amazon Kinesis for real-time data streaming and processing. Amazon EMR (Elastic Map Reduce) for big data processing with Spark/Hadoop (Open Source, Apache platform - one is optimised for clustered deployments).
 
 #### GCP (Google Cloud Platform)
-||||
-|---|---|---|
 |Service|Purpose|Use Case|
+|---|---|---|
 |BigQuery|Serverless data warehouse|Analyze large datasets using SQL|
 |Cloud Storage|Object storage|Store structured/unstructured data|
 |Looker Studio|Data visualization|Build interactive dashboards|
@@ -49,9 +48,8 @@ Also useful: Amazon Kinesis for real-time data streaming and processing. Amazon 
 GCP also offers a beginner-friendly Data Analytics Certificate to help new analysts build skills with hands-on projects.
 
 #### Microsoft Azure
-||||
-|---|---|---|
 |Service|Purpose|Use Case|
+|---|---|---|
 |Azure Synapse Analytics|Unified analytics platform|Combine big data and data warehousing|
 |Power BI|Business intelligence|	Visualize and share insights|
 |Azure Data Factory|Data integration and ETL|Move and transform data across sources|
