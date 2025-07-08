@@ -12,6 +12,17 @@
 
 The following is a selection of tools on each of the platforms which in the absense of cloud certification, an employer may expect you to be learning about for entry-level DA roles.
 
+#### Overview
+Generally speaking, if a data pipeline goes:
+
+`Data Lake` >  `Data Warehouse` > `Database`
+
+...and that roughly maps to:
+
+`Unstructured` >  `Semi-structured` > `Structured`
+
+Then each cloud provider can offer services for each stage of the lifecycle, and the processing that happens inbetween.
+
 ### DA Relevant Services
 #### AWS (Amazon Web Services)
 ||||
@@ -48,15 +59,3 @@ GCP also offers a beginner-friendly Data Analytics Certificate to help new analy
 |Azure Analysis Services|Semantic data modeling|Build enterprise-grade data models|
 
 Azure also supports Jupyter Notebooks and HDInsight for more technical data exploration and processing.
-
-### Summary
-
-Generally speaking, if a data pipeline goes:
-
-`Data Lake` >  `Data Warehouse` > `Database`
-
-...and that roughly maps to:
-
-`Unstructured` >  `Semi-structured` > `Structured`
-
-Then each cloud provider can offer services for each stage of the lifecycle, and the processing that happens inbetween.
