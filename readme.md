@@ -22,7 +22,13 @@ Generally speaking, if a data pipeline goes:
 
 `Unstructured` >  `Semi-structured` > `Structured`
 
-Then each cloud provider can offer services for each stage of the lifecycle, and the processing that happens inbetween.
+Then each cloud provider can offer services for each stage of the lifecycle, and any processing and analysis that happens inbetween. 
+
+The decision about which one to use may come down to whichever offers the specific services and compatibility with workloads, but other things to consider include 
+- Which cloud provider has been adopted elsewhere in the organisation.
+- Cost effectiveness, and optimisations. For example serverless services allowing you to pay per execution.
+- Existing institutional knowledge.
+- Various others...
 
 ### DA Relevant Services
 ---
