@@ -48,3 +48,15 @@ GCP also offers a beginner-friendly Data Analytics Certificate to help new analy
 |Azure Analysis Services|Semantic data modeling|Build enterprise-grade data models|
 
 Azure also supports Jupyter Notebooks and HDInsight for more technical data exploration and processing.
+
+### Summary
+
+Generally speaking, if a data pipeline goes:
+
+`Data Lake` >  `Data Warehouse` > `Database`
+
+...and that roughly maps to:
+
+`Unstructured` >  `Semi-structured` > `Structured`
+
+Then each cloud provider can offer services for each stage of the lifecycle, and the processing that happens inbetween.
