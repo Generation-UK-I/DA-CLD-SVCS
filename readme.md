@@ -23,7 +23,7 @@ The following is a selection of tools on each of the platforms which in the abse
 |Amazon Redshift|Data warehousing|Run complex queries on large datasets|
 |AWS Glue|ETL (Extract, Transform, Load)|Prepare and clean data for analysis|
 
-Also useful: Amazon Kinesis for real-time data streaming and Amazon EMR for big data processing with Spark/Hadoop.
+Also useful: Amazon Kinesis for real-time data streaming and processing. Amazon EMR (Elastic Map Reduce) for big data processing with Spark/Hadoop (Open Source, Apache platform - one is optimised for clustered deployments).
 
 #### GCP (Google Cloud Platform)
 ||||
